@@ -1,0 +1,1 @@
+For this challenge, you will be assuming the role of an analyst at an investment firm that invests in early stage entrepreneurs. The partners have asked you to analyze Kickstarter projects to understand factors that lead to a project taking off
